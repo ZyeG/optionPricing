@@ -1,6 +1,6 @@
 # optionPricing
 
-## european option
+## European option
 ### via black-scholes equation
 ### via MC simulations using geometric brownain motion for stock price, then compute discounted payoff as price; specifically,
 - call payoff: max (S_t - K, 0)
